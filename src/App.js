@@ -11,7 +11,9 @@ function App() {
         </Box>
       </Flex>
     </Container>
+    
   );
+  
 }
 
 export default App;

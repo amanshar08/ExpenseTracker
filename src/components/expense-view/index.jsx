@@ -41,5 +41,7 @@ export default function ExpenseView({ type, data }) {
         </>
       ))}
     </Box>
+    
   );
+  
 }

@@ -86,9 +86,9 @@ export default function TransactionForm({ onClose, isOpen }) {
             <Button onClick={onClose} type="submit">
               Add
             </Button>
-          </ModalFooter>
-        </ModalContent>
-      </form>
+          </ModalFooter>          
+        </ModalContent>        
+      </form>      
     </Modal>
   );
 }

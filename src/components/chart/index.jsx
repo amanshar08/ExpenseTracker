@@ -54,4 +54,5 @@ export default function TransactionChartSummary({expense = 100, income = 100}) {
       height={"100%"}
     />
   );
+  
 }
